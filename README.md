@@ -1,5 +1,7 @@
 # skill-audit
 
+[![CI](https://github.com/wdfdsyhb/skill-audit/actions/workflows/tests.yml/badge.svg)](https://github.com/wdfdsyhb/skill-audit/actions/workflows/tests.yml)
+
 **Audit AI agent skill libraries** — frontmatter lint, duplicate detection, and the always-on token cost of your whole library. For Claude Code / ZCode / Codex-style `<skill>/SKILL.md` directories.
 
 体检你的 AI 技能库：元数据合规、重复技能、以及全库的常驻 token 成本。
